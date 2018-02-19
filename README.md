@@ -1,4 +1,5 @@
 # BeBee kinder hygge hub
+<br>
 
 ## Our location and how to get there
 
@@ -8,7 +9,7 @@ At the moment publicly available maps are a bit outdated so the best way to meet
 
 ### Navigating to BeBee
 
-Just type in appropriate link into the browser on your phone and you'll get navigating directions to us:
+Use the following links and/or QR codes on your phone to get navigating directions to BeBee:
 
 - from Nyvky metro station:    [is.gd/onamik](https://is.gd/onamik) 
 <br><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fis.gd%2Fonamik&chs=180x180&choe=UTF-8&chld=L|2' alt=''>

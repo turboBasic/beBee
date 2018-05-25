@@ -5,11 +5,11 @@
 
 BeBee occupies separate private building in residential area "Sudnobudivnyk" located near Vynohradar district on the North-West part of Kyiv.  
 
-At the moment publicly available maps are a bit outdated so the best way to meet us is to get to the main entrance of Sudnobudivnyk (2 Gazoprovidna Street).
+Our address:  2 Gazoprovidna Street, the main entrance of Sudnobudivnyk.
 
 ### Navigating to BeBee
 
-Use the following links and/or QR codes on your phone to get navigating directions to BeBee:
+Use the following links and QR codes to get navigating directions to BeBee:
 
 - from Nyvky metro station:    [is.gd/onamik](https://is.gd/onamik) 
 <br><img src='images/navigation-from-Nyvky.png' alt='navigation from metro Nyvky'>

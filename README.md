@@ -1,4 +1,4 @@
-# BeBee kinder hygge hub
+# BeBee kinders' Hygge hub
 <br>
 
 ## Our location and how to get there

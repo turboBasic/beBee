@@ -1,5 +1,6 @@
-# BeBee kinders' Hygge hub
+# What are we?
 <br>
+BeBee is a combination of environment and people.  This is about kinders and [Hygge](https://en.wikipedia.org/wiki/Hygge).
 
 ## Our location and how to get there
 
